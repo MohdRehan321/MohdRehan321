@@ -1,54 +1,18 @@
-# Mohd Rehan — Java Backend Developer
+# 💫 About Me:
+# Mohd Rehan — Java Backend Developer<br><br>B.Tech Computer Science, 2025 · New Delhi, Delhi<br>Actively seeking full-time roles in Backend and AI Engineering .<br><br>---<br><br>## What I Build<br><br>Backend systems that are production-aware from day one —<br>clean architecture, RESTful APIs, JWT-secured services, and AI-integrated tools.<br><br>- **MedicarX** — Hospital Management System built with Spring Boot 2.5, MySQL, and OpenAPI/Swagger.<br>  Manages patients, doctors, appointments, and insurance records end-to-end.<br>- **SpringBoot-MongoDB-RestAPI** — Full CRUD REST API with Spring Boot + MongoDB.<br>  Follows controller → service → repository layering with proper exception handling.<br>- **AI Finance Assistant** — Personal finance web app with AI-powered insights,<br>  built with Supabase and integrated with LLM APIs for natural language queries.<br><br>---<br><br>## Core Stack<br><br>**Backend:** Java 17, Spring Boot 3, Spring MVC, Spring Data JPA, Hibernate, REST APIs, JWT<br>**Databases:** MySQL, MongoDB, SQL optimization<br>**Messaging & Build:** RabbitMQ, Apache Maven, Jenkins (CI basics)<br>**Cloud & DevOps:** AWS (EC2, S3 basics), Git, GitHub, Docker (Exposure)<br>**API & Quality:** Postman, Swagger/OpenAPI, SonarQube, SonarLint<br><br>**Gen AI (2026):** Prompt Engineering, LLM API integration (OpenAI ), AI-powered feature integration in Spring Boot apps<br><br>---<br><br>## Currently Deepening<br><br>- System Design — HLD, LLD, scalability patterns<br>- DSA — consistent daily practice<br>- Microservices patterns — service discovery, API gateway, circuit breaker<br>- Spring AI / LangChain4j — building AI-native backend services<br><br>---<br><br>## Open To<br><br>Full-time · Software Developer · Java Backend Engineer · AI Engineering<br>Remote or Hybrid · India<br><br>---<br><br>## Connect<br><br>[LinkedIn](https://www.linkedin.com/in/mohd-rehan25) · rehank2389773@gmail.com
 
-B.Tech Computer Science, 2025 · Haldwani, Uttarakhand
-Actively seeking full-time roles in Backend Engineering and Fintech.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mohd-rehan25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehank2389773@gmail.com) 
 
-## What I Build
-
-Backend systems that are production-aware from day one —
-clean architecture, RESTful APIs, JWT-secured services, and AI-integrated tools.
-
-- **MedicarX** — Hospital Management System built with Spring Boot 2.5, MySQL, and OpenAPI/Swagger.
-  Manages patients, doctors, appointments, and insurance records end-to-end.
-- **SpringBoot-MongoDB-RestAPI** — Full CRUD REST API with Spring Boot + MongoDB.
-  Follows controller → service → repository layering with proper exception handling.
-- **AI Finance Assistant** — Personal finance web app with AI-powered insights,
-  built with Supabase and integrated with LLM APIs for natural language queries.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MohdRehan321&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MohdRehan321&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohdRehan321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MohdRehan321&icon=0&color=9)](https://visitcount.itsvg.in)
 
-## Core Stack
-
-**Backend:** Java 17, Spring Boot 3, Spring MVC, Spring Data JPA, Hibernate, REST APIs, JWT
-**Databases:** MySQL, MongoDB, SQL optimization
-**Messaging & Build:** RabbitMQ, Apache Maven, Jenkins (CI basics)
-**Cloud & DevOps:** AWS (EC2, S3 basics), Git, GitHub, Docker (learning)
-**API & Quality:** Postman, Swagger/OpenAPI, SonarQube, SonarLint
-
-**Gen AI (2026):** Prompt Engineering, LLM API integration (OpenAI, Gemini),
-RAG pipeline basics, AI-powered feature integration in Spring Boot apps,
-LangChain4j (exploring), Supabase + pgvector for vector search
-
----
-
-## Currently Deepening
-
-- System Design — HLD, LLD, scalability patterns
-- DSA — consistent daily practice
-- Microservices patterns — service discovery, API gateway, circuit breaker
-- Spring AI / LangChain4j — building AI-native backend services
-
----
-
-## Open To
-
-Full-time · Java Backend Developer · Backend Engineer · Fintech Engineering
-Remote or Hybrid · India
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/mohd-rehan25) · rehank2389773@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
