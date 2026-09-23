@@ -1,8 +1,8 @@
-# Mohd Rehan — Java Backend Developer
+# Mohd Rehan — Java Backend Engineer
 
 B.Tech Computer Science, 2025 · Delhi, India
 
-Java Backend Developer focused on building secure, reliable backend systems using Java, Spring Boot, REST APIs, microservices, databases, and distributed-service communication.
+Java Backend Engineer focused on building secure, reliable backend systems using Java, Spring Boot, REST APIs, microservices, databases, and distributed-service communication.
 
 Currently seeking full-time opportunities in **Java Backend Engineering, Backend Development, and Software Engineering**.
 
